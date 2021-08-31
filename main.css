@@ -95,14 +95,14 @@ body {
 }
 
 #output-box {
-  border: 2px solid white;
+  border: none;
   width: 50%;
   min-height: 50px;
 }
 
 #output-box #output {
   text-align: center;
-  color: red;
+  color: white;
 }
 
 #floor {
