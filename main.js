@@ -1,4 +1,4 @@
-import {cosmicCalculator, message} from './cosmic_calendar.js';
+import {cosmicCalculator, message} from './cosmicCalendar.js';
 
 let button = document.getElementById('button');
 let output = document.getElementById('output')
