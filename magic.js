@@ -102,7 +102,7 @@ const preload = () => {
               amount: 1500,
               particleSize: 1,
               particleColor: 0xffffff,
-              textSize: 16,
+              textSize: 10,
               area: 250,
               ease: .05,
           }
@@ -111,7 +111,7 @@ const preload = () => {
           this.bindEvents();
   
       }
-  
+      
   
       setup(){
   
